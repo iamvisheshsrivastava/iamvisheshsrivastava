@@ -1,8 +1,8 @@
 <!-- GitHub Profile README for iamvisheshsrivastava -->
 
-<!-- Animated Headline -->
+<!-- Animated Headline (Typing SVG) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00A6FF&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Vishesh+Srivastava;Data+Scientist+%7C+AI+Enthusiast+%7C+ML+Researcher;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Vishesh+Srivastava;Data+Scientist+%7C+AI+Enthusiast+%7C+ML+Researcher;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Views Counter -->
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🎓 **MSc Data Science Student** @ **Technical University Dortmund** *(Expected: 2025)*
-- 💻 **Data Scientist** with 4+ years of experience in software development & AI
+- 💻 **Data Scientist** with 4 years of experience in software development & AI
 - 🔬 **Research Focus**: Predicting porosity in manufacturing processes using ML
 - 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning**, and building impactful solutions
 - 🌐 **Portfolio**: [visheshsrivastava.com](https://visheshsrivastava.com)
