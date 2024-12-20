@@ -53,11 +53,14 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=iamvisheshsrivastava&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvisheshsrivastava&theme=react&hide_border=true" alt="GitHub Streak" />
-  <br/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvisheshsrivastava&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <br/>
+  <!-- GitHub Contributions -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvisheshsrivastava&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <br/>
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/iamvisheshsrivastava?label=Stars&style=flat-square" alt="GitHub Stars" />
 </p>
 
 ---
