@@ -8,6 +8,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -30,4 +32,4 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add dist/github-snake.svg
           git commit -m 'Updated contribution snake animation' || echo "No changes to commit"
-          git push
+          git push origin main --force
