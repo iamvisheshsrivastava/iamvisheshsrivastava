@@ -50,7 +50,7 @@
 </p>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/iamvisheshsrivastava/iamvisheshsrivastava/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/iamvisheshsrivastava/iamvisheshsrivastava/main/dist/github-snake.svg)
 
 <!-- 
 ======================================================
