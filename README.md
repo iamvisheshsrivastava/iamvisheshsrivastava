@@ -148,25 +148,6 @@
 <br />
 
 ---
-<!-- 
-======================================================
-  FEATURED PROJECTS
-======================================================
-
-## 🖥️ Featured Projects
-
-| **Project**                         | **Description**                                                  | **Tech Stack**                    | **Repo**                                                                 |
-|------------------------------------|------------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------|
-| **Sustainability Score Evaluator** | Built a web app for real-time sustainability scoring             | C#, ASP.NET, Google API           | [Repo Link](https://github.com/iamvisheshsrivastava/SustainabilityScoreEvaluator) |
-| **Domain-Specific Chatbot**        | GPT-2 & GPT-3 chatbot for event-driven tasks                     | Python, OpenAI APIs               | [Repo Link](https://github.com/iamvisheshsrivastava/ChatBot)             |
-| **Autoencoder Optimization**       | Anomaly detection techniques using TensorFlow (IEEE Published)   | Python, TensorFlow                | [Repo Link](https://github.com/iamvisheshsrivastava/Autoencoder-Optimization-Anomaly-Detection) |
-| **Online Boat Rental Service**     | Scalable platform for online boat rentals                        | JavaScript, ASP.NET, SQL          | [Repo Link](https://github.com/iamvisheshsrivastava/RentBoat)            |
--->
-
-
-<br />
-
----
 
 <!-- 
 ======================================================
