@@ -37,7 +37,7 @@
 
 <!-- 
 ======================================================
-  QUICK NAVIGATION LINKS (OPTIONAL)
+  QUICK NAVIGATION LINKS
 ======================================================
 -->
 <p align="center">
@@ -59,8 +59,8 @@
 -->
 ## 🚀 About Me
 
-- 🎓 **MSc Data Science Student** @ **Technical University Dortmund** *(Expected: 2025)*  
-- 💻 **Data Scientist** with 4 years of experience in software development & AI  
+- 🎓 **MSc Data Science Student** @ **Technical University Dortmund**
+- 💻 **Data Scientist** with prior experience in full-stack software development  
 - 🔬 **Research Focus**: Predicting porosity in manufacturing processes using ML  
 - 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning**, and building impactful solutions  
 - 🌐 **Portfolio**: [visheshsrivastava.com](https://visheshsrivastava.com)
@@ -69,7 +69,7 @@
 
 <!-- 
 ======================================================
-  FUN FACT SECTION (OPTIONAL)
+  FUN FACT SECTION
 ======================================================
 -->
 ### 🎉 Fun Fact
@@ -137,7 +137,7 @@
 
 <!-- 
 ======================================================
-  ACHIEVEMENTS / ACCOMPLISHMENTS SECTION (OPTIONAL)
+  ACHIEVEMENTS / ACCOMPLISHMENTS SECTION
 ======================================================
 -->
 ### 🏅 Achievements & Recognitions
@@ -148,12 +148,11 @@
 <br />
 
 ---
-
 <!-- 
 ======================================================
   FEATURED PROJECTS
 ======================================================
--->
+
 ## 🖥️ Featured Projects
 
 | **Project**                         | **Description**                                                  | **Tech Stack**                    | **Repo**                                                                 |
@@ -162,6 +161,8 @@
 | **Domain-Specific Chatbot**        | GPT-2 & GPT-3 chatbot for event-driven tasks                     | Python, OpenAI APIs               | [Repo Link](https://github.com/iamvisheshsrivastava/ChatBot)             |
 | **Autoencoder Optimization**       | Anomaly detection techniques using TensorFlow (IEEE Published)   | Python, TensorFlow                | [Repo Link](https://github.com/iamvisheshsrivastava/Autoencoder-Optimization-Anomaly-Detection) |
 | **Online Boat Rental Service**     | Scalable platform for online boat rentals                        | JavaScript, ASP.NET, SQL          | [Repo Link](https://github.com/iamvisheshsrivastava/RentBoat)            |
+-->
+
 
 <br />
 
@@ -309,7 +310,7 @@ In Progress
 
 <!-- 
 ======================================================
-  ADDITIONAL FANCY DECORATIONS / SPACERS (OPTIONAL)
+  ADDITIONAL FANCY DECORATIONS / SPACERS
 ======================================================
 -->
 <!-- 
