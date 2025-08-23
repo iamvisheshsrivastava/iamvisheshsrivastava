@@ -67,17 +67,20 @@
 
 <br />
 
+## 📬 Subscribe to My Newsletter
+Get weekly insights on **Data Science, AI, and Machine Learning** straight to your inbox.  
+
+👉 [Join DSwithVishesh – AI & Data Weekly](https://aa7ed61b.sibforms.com/serve/MUIFADjxhPbC4HS2HxFYeJi6P_iNm0uT-h79INS4HkFpXmilHzXKN-GjuNcFqijb2b5MPuwhaAl3WmjtGPbgXZUcB-lR0_xBGKS0MJtcB1KkejYomVW71bRukY09SZpOLxAlnWyKDjKEr5kBy796tkfwAThBhIRBLzq9W68fFCXXuBd0sPEIdGrTrZAios4iX2384F7SjHoFp_4D) 🚀
+
+<br />
+
 <!-- 
 ======================================================
-  FUN FACT SECTION
+  FUN FACT (kept short)
 ======================================================
 -->
 ### 🎉 Fun Fact
-> *“Strive not to be a success, but rather to be of value.”* – Albert Einstein
-
-- I love tinkering with new AI tools & frameworks.
-- I enjoy reading about quantum computing and futuristic technology.
-- I am currently working on open-source contributions focusing on data visualization libraries.
+I’m happiest when turning messy, real-world data into clean, decision-ready apps and dashboards.
 
 <br />
 
@@ -85,45 +88,87 @@
 
 <!-- 
 ======================================================
-  TECH STACK & SKILLS
+  TECH STACK & SKILLS (condensed)
 ======================================================
 -->
 ## 🛠 Tech Stack & Skills
 
-**Programming Languages:**  
-- Python  
-- R  
-- C#  
-- SQL  
-- Java  
+**Languages:**  
+`Python` · `SQL` · `C#` · `R` · `Java`
 
-**AI/ML Frameworks:**  
-- TensorFlow  
-- PyTorch  
-- LangChain  
-- Transformers  
+**ML/AI:**  
+`PyTorch` · `TensorFlow` · `scikit-learn` · `spaCy` · `Hugging Face` · `LangChain`
 
-**Tools & Services:**  
-- Docker  
-- Git  
-- ElasticSearch  
-- OpenAI API  
+**Data & Apps:**  
+`pandas` · `NumPy` · `Matplotlib` · `Streamlit` · `FastAPI` · `Power BI (basics)`
 
-**Cloud Platforms:**  
-- AWS  
-- Azure  
+**Cloud & DevOps:**  
+`AWS` · `Azure` · `Docker` · `GitHub Actions`
 
-**Data Science Expertise:**  
-- Predictive Modeling  
-- NLP  
-- Time Series Analysis  
-- Generative AI  
+**Search & APIs:**  
+`Elasticsearch` · `REST APIs` · `OpenAI API`
+
+**Focus Areas:**  
+`Predictive Modeling` · `NLP` · `Time Series` · `Generative AI` · `Data Engineering (ETL)`  
 
 <br />
 
+---
+
 <!-- 
 ======================================================
-  GITHUB TROPHIES
+  ACHIEVEMENTS (tight & factual)
+======================================================
+-->
+### 🏅 Achievements & Recognitions
+- **IEEE Publication** — *Autoencoder Optimization for Anomaly Detection: A Comparative Study with Shallow Algorithms* (2024).  
+- **Hessen Ideas Scholarship (2023)** — Supported an AI-driven project automation initiative.
+
+<br />
+
+---
+
+<!-- 
+======================================================
+  FEATURED PROJECTS (concise, impact-first)
+======================================================
+-->
+## 🖥️ Featured Projects
+
+- **Smart CSV Toolkit (Streamlit App)** — *Data cleaning & metadata intelligence*  
+  Robust type inference, ML-readiness scoring, LLM/heuristic cleaning actions, interactive decision tree (PyVis), and audit logging (SQLite).  
+  Tech: `Python`, `Streamlit`, `FastAPI`, `pandas`, `LangChain`  
+  🔗 Repo: [my_data_cleaning_app](https://github.com/iamvisheshsrivastava/my_data_cleaning_app)
+
+- **AB Lab — End-to-End A/B Testing Toolkit**  
+  Design experiments, simulate outcomes, and analyze results in a single workflow (package + Streamlit UI).  
+  Tech: `Python`, `statsmodels`, `Streamlit`  
+  🔗 Repo: [ab-lab](https://github.com/iamvisheshsrivastava/ab-lab)
+
+- **Autoencoder Anomaly Detection (Paper + Code)**  
+  Comparative study vs. shallow baselines; reproducible pipelines and evaluation utilities.  
+  Tech: `PyTorch`, `scikit-learn`, `pandas`  
+  🔗 Repo: [autoencoder-anomaly-detection](https://github.com/iamvisheshsrivastava/autoencoder-anomaly-detection)
+
+- **SpeakMind** — Conversational AI experiments  
+  Rapid prototyping for chat flows, prompt tooling, and retrieval.  
+  Tech: `Python`, `LangChain`, `OpenAI API`  
+  🔗 Repo: [SpeakMind](https://github.com/iamvisheshsrivastava/SpeakMind)
+
+- **DataAnalytics-Dashboard** — BI & analytics collection  
+  Sales/customer/finance dashboards with Python + Power BI; clean foldered templates.  
+  Tech: `Python`, `pandas`, `Power BI`  
+  🔗 Repo: [DataAnalytics-Dashboard](https://github.com/iamvisheshsrivastava/DataAnalytics-Dashboard)
+
+> More on my pinned repos or by browsing my orgs and recent activity.
+
+<br />
+
+---
+
+<!-- 
+======================================================
+  GITHUB TROPHIES (kept, centered)
 ======================================================
 -->
 ## 🏆 GitHub Trophies
@@ -137,89 +182,16 @@
 
 <!-- 
 ======================================================
-  ACHIEVEMENTS / ACCOMPLISHMENTS SECTION
-======================================================
--->
-### 🏅 Achievements & Recognitions
-
-- **IEEE Publication** on Anomaly Detection using Autoencoder Optimization.  
-- Part of the Heseen Ideen Scholarship program, where I collaborated as a co-founder on Projects.ai, an innovative AI-driven tool designed for project automation.  
-
-<br />
-
----
-
-<!-- 
-======================================================
-  SHOWCASING SMALL DEMOS / CODE SNIPPETS (OPTIONAL)
-======================================================
--->
-### 📂 Mini Code Snippets
-<details>
-  <summary>Python Snippet: Quick Data Load & Preprocessing</summary>
-
-  ```python
-  import pandas as pd
-  import numpy as np
-
-  # Load dataset
-  df = pd.read_csv('data.csv')
-
-  # Simple cleaning
-  df.dropna(inplace=True)
-  df['date'] = pd.to_datetime(df['date'])
-
-  # Feature engineering
-  df['year'] = df['date'].dt.year
-  df['log_value'] = np.log1p(df['value'])
-
-  # Quick summary
-  print(df.describe())
-  ```
-</details>
-
-<details>
-  <summary>SQL Snippet: Creating a Table</summary>
-
-  ```sql
-  CREATE TABLE Sales (
-      SaleID INT PRIMARY KEY,
-      ProductName VARCHAR(100),
-      Quantity INT,
-      Price DECIMAL(10, 2),
-      SaleDate DATE
-  );
-
-  INSERT INTO Sales (SaleID, ProductName, Quantity, Price, SaleDate)
-  VALUES (1, 'Laptop', 5, 999.99, '2024-01-15');
-  ```
-</details>
-
-<br />
-
----
-
-<!-- 
-======================================================
-  GITHUB STATS
+  GITHUB STATS (compact, no clutter)
 ======================================================
 -->
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=iamvisheshsrivastava&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvisheshsrivastava&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  <br/>
-
-  <!-- GitHub Contributions -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvisheshsrivastava&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-  <br/>
-
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvisheshsrivastava&theme=react&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvisheshsrivastava&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 <br />
@@ -228,11 +200,11 @@
 
 <!-- 
 ======================================================
-  OPEN SOURCE CONTRIBUTIONS (OPTIONAL)
+  OPEN SOURCE CONTRIBUTIONS (simple & honest)
 ======================================================
 -->
 ### 🌱 Open Source Contributions
-In Progress
+I contribute across my own repos and community projects. PRs/issues visible in the **Contributions** tab.
 
 <br />
 
@@ -240,11 +212,11 @@ In Progress
 
 <!-- 
 ======================================================
-  LATEST BLOG POSTS (OPTIONAL)
+  LATEST BLOG POSTS (placeholder)
 ======================================================
 -->
 ### 📝 Latest Blog Posts 
-*(Coming soon on [visheshsrivastava.com](https://visheshsrivastava.com))*
+Coming soon on **[visheshsrivastava.com](https://visheshsrivastava.com)** and Medium.
 
 <br />
 
@@ -252,7 +224,7 @@ In Progress
 
 <!-- 
 ======================================================
-  LET'S CONNECT
+  LET'S CONNECT (kept as badges)
 ======================================================
 -->
 ## 🌐 Let's Connect!
@@ -277,23 +249,17 @@ In Progress
 
 <!-- 
 ======================================================
-  SPECIAL THANK YOU MESSAGE
+  CLOSER
 ======================================================
 -->
 <p align="center">
-  ⭐ <strong>Thank you for visiting!</strong> Feel free to explore my work and connect. <br/>
-  Let’s build something great together! 🚀
+  ⭐ <strong>Thanks for dropping by!</strong> If something here sparks an idea, let’s build it. 🚀
 </p>
 
 <br />
 
 ---
 
-<!-- 
-======================================================
-  ADDITIONAL FANCY DECORATIONS / SPACERS
-======================================================
--->
 <!-- 
 ======================================================
   END OF README
