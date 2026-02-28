@@ -91,25 +91,11 @@ I’m happiest when turning messy, real-world data into clean, decision-ready ap
   TECH STACK & SKILLS (condensed)
 ======================================================
 -->
-## 🛠 Tech Stack & Skills
+## 🛠 Tech Stack
 
-**Languages:**  
-`Python` · `SQL` · `C#` · `R` · `Java`
+Python · SQL · PyTorch · TensorFlow · FastAPI · LangChain · Docker · AWS/Azure
 
-**ML/AI:**  
-`PyTorch` · `TensorFlow` · `scikit-learn` · `spaCy` · `Hugging Face` · `LangChain`
-
-**Data & Apps:**  
-`pandas` · `NumPy` · `Matplotlib` · `Streamlit` · `FastAPI` · `Power BI (basics)`
-
-**Cloud & DevOps:**  
-`AWS` · `Azure` · `Docker` · `GitHub Actions`
-
-**Search & APIs:**  
-`Elasticsearch` · `REST APIs` · `OpenAI API`
-
-**Focus Areas:**  
-`Predictive Modeling` · `NLP` · `Time Series` · `Generative AI` · `Data Engineering (ETL)`  
+**Focus:** Generative AI · NLP · ML Systems · Data Engineering 
 
 <br />
 
@@ -121,46 +107,9 @@ I’m happiest when turning messy, real-world data into clean, decision-ready ap
 ======================================================
 -->
 ### 🏅 Achievements & Recognitions
-- **IEEE Publication** — *Autoencoder Optimization for Anomaly Detection: A Comparative Study with Shallow Algorithms* (2024).  
-- **Hessen Ideas Scholarship (2023)** — Supported an AI-driven project automation initiative.
-
-<br />
-
----
-
-<!-- 
-======================================================
-  FEATURED PROJECTS (concise, impact-first)
-======================================================
--->
-## 🖥️ Featured Projects
-
-- **Smart CSV Toolkit (Streamlit App)** — *Data cleaning & metadata intelligence*  
-  Robust type inference, ML-readiness scoring, LLM/heuristic cleaning actions, interactive decision tree (PyVis), and audit logging (SQLite).  
-  Tech: `Python`, `Streamlit`, `FastAPI`, `pandas`, `LangChain`  
-  🔗 Repo: [my_data_cleaning_app](https://github.com/iamvisheshsrivastava/my_data_cleaning_app)
-
-- **AB Lab — End-to-End A/B Testing Toolkit**  
-  Design experiments, simulate outcomes, and analyze results in a single workflow (package + Streamlit UI).  
-  Tech: `Python`, `statsmodels`, `Streamlit`  
-  🔗 Repo: [ab-lab](https://github.com/iamvisheshsrivastava/ab-lab)
-
-- **Autoencoder Anomaly Detection (Paper + Code)**  
-  Comparative study vs. shallow baselines; reproducible pipelines and evaluation utilities.  
-  Tech: `PyTorch`, `scikit-learn`, `pandas`  
-  🔗 Repo: [autoencoder-anomaly-detection](https://github.com/iamvisheshsrivastava/autoencoder-anomaly-detection)
-
-- **SpeakMind** — Conversational AI experiments  
-  Rapid prototyping for chat flows, prompt tooling, and retrieval.  
-  Tech: `Python`, `LangChain`, `OpenAI API`  
-  🔗 Repo: [SpeakMind](https://github.com/iamvisheshsrivastava/SpeakMind)
-
-- **DataAnalytics-Dashboard** — BI & analytics collection  
-  Sales/customer/finance dashboards with Python + Power BI; clean foldered templates.  
-  Tech: `Python`, `pandas`, `Power BI`  
-  🔗 Repo: [DataAnalytics-Dashboard](https://github.com/iamvisheshsrivastava/DataAnalytics-Dashboard)
-
-> More on my pinned repos or by browsing my orgs and recent activity.
+- **IEEE IJCNN 2024 Publication** — Autoencoder Optimization for Anomaly Detection: A Comparative Study with Shallow Algorithms.
+- **Journal of Composite Materials (2025)** — Deep Learning-Based Defect Classification for Industrial Quality Inspection.
+- **Hessen Ideas Scholarship (2023)** — Awarded for an AI-driven project automation initiative. — Supported an AI-driven project automation initiative.
 
 <br />
 
