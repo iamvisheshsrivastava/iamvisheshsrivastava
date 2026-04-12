@@ -61,7 +61,6 @@
 
 - 🎓 **Applied ML Engineer | MSc Data Science (TU Dortmund)**
 - 💻 **Data Scientist** with prior experience in full-stack software development  
-- 🔬 **Research Focus**: Predicting porosity in manufacturing processes using ML  
 - 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning**, and building impactful solutions  
 - 🌐 **Portfolio**: [visheshsrivastava.com](https://visheshsrivastava.com)
 
