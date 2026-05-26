@@ -1,6 +1,6 @@
 <!--    
 ==========================================================================================
-|                                                                                          |
+|                                                                                          |  
 |               WELCOME TO THE BEAUTIFIED & EXTENDED GITHUB PROFILE README                |
 |                                                                                          |
 |   This README has been carefully enhanced to be more visually appealing, informative,    |
