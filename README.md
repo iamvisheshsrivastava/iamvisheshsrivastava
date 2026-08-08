@@ -107,8 +107,8 @@ Python · SQL · PyTorch · TensorFlow · FastAPI · LangChain · Docker · AWS/
 -->
 ### 🏅 Achievements & Recognitions
 - **IEEE IJCNN 2024 Publication** — Autoencoder Optimization for Anomaly Detection: A Comparative Study with Shallow Algorithms.
-- **Journal of Composite Materials (2025)** — Deep Learning-Based Defect Classification for Industrial Quality Inspection.
-- **Hessen Ideas Scholarship (2023)** — Awarded for an AI-driven project automation initiative. — Supported an AI-driven project automation initiative.
+- **Journal of Composite Materials (2025)** — Void content classification for acceleration sensor embedded glass-fiber reinforced components made by resin transfer molding.
+- **Hessen Ideen Stipendium (2023)** — Six-month State of Hesse startup scholarship (projects.ai) for an AI-driven document-workflow automation prototype; completed workshops in mentoring, business model development, financing, marketing, and pitch training.
 
 <br />
 
