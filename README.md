@@ -21,7 +21,7 @@ A selection of independent projects and research code. Prototype scope, evaluati
 | **[GraphRAG Lab](https://github.com/iamvisheshsrivastava/graphrag-lab)** | A research prototype for source-linked answers and traceability over automotive requirements. Neo4j, FastAPI, React. | [Code](https://github.com/iamvisheshsrivastava/graphrag-lab) · [Demo](https://graphrag-lab.vercel.app/) |
 | **[AB Lab](https://github.com/iamvisheshsrivastava/ab-lab)** | Experiment simulation, power analysis, frequentist and Bayesian inference, CUPED, and statistical guardrails. Python, Streamlit. | [Code](https://github.com/iamvisheshsrivastava/ab-lab) · [Demo](https://ab-lab.streamlit.app/) |
 
-**More work:** [spec2program](https://github.com/iamvisheshsrivastava/spec2program) — generating and validating engineering procedures · [Smart CSV Toolkit](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit) — data cleaning, merging, and visualization · [GenieBot](https://github.com/iamvisheshsrivastava/geniebot) — document Q&A and image captioning.
+**More work:** [Microscopy active learning](https://github.com/iamvisheshsrivastava/microscopy-active-learning) — representation learning and active learning · [spec2program](https://github.com/iamvisheshsrivastava/spec2program) — generating and validating engineering procedures · [Smart CSV Toolkit](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit) — data cleaning, merging, and visualization · [GenieBot](https://github.com/iamvisheshsrivastava/geniebot) — document Q&A and image captioning.
 
 *Hosted demos may need time to wake up or have service limitations; the repository documentation provides setup instructions and current caveats.*
 
