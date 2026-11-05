@@ -1,215 +1,69 @@
-<!--    
-==========================================================================================
-|                                                                                          |  
-|               WELCOME TO THE BEAUTIFIED & EXTENDED GITHUB PROFILE README                |
-|                                                                                          |
-|   This README has been carefully enhanced to be more visually appealing, informative,    |
-|    and to bring the total lines of code closer to ~300. Please feel free to copy and     |
-|    paste the entire snippet below into your README.md (or .md) file as is. Enjoy!        |
-|                                                                                          |
-==========================================================================================
--->
+# Vishesh Srivastava
 
+**AI Engineer & Data Scientist · Applied Machine Learning · LLMs & RAG**
 
-<!-- 
-======================================================
-  GITHUB PROFILE README FOR iamvisheshsrivastava
-======================================================
--->
+Dortmund, Germany · M.Sc. Data Science, TU Dortmund University
 
-<!-- 
-======================================================
-  ANIMATED HEADLINE (TYPING SVG)
-======================================================
--->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Vishesh+Srivastava;AI%2FML+Engineer+%7C+Data+Science+Graduate;Building+AI+Projects+%26+Learning+Every+Day!" alt="Typing SVG" />
-</h1>
+I build and evaluate practical AI applications—from sensor and image-based machine learning to document analysis, retrieval systems, and agent workflows. My work combines a software engineering background with research on model evaluation, class imbalance, calibration, and model limitations.
 
-<!-- 
-======================================================
-  PROFILE VIEWS COUNTER
-======================================================
--->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamvisheshsrivastava&color=brightgreen&style=flat-square" alt="Profile Views" /> 
-</p>
+[Portfolio](https://visheshsrivastava.com/) · [LinkedIn](https://www.linkedin.com/in/iamvisheshsrivastava/) · [Research / ORCID](https://orcid.org/0009-0003-4572-5689)
 
-<!-- 
-======================================================
-  QUICK NAVIGATION LINKS
-======================================================
--->
-<p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-tech-stack--skills">Tech Stack & Skills</a> •
-  <a href="#%F0%9F%8F%86-github-trophies">GitHub Trophies</a> •
-  <a href="#%F0%9F%96%A5%EF%B8%8F-featured-projects">Featured Projects</a> •
-  <a href="#%F0%9F%93%8A-github-stats">GitHub Stats</a> •
-  <a href="#-lets-connect">Let's Connect!</a>
-</p>
+## Selected projects
 
----
-![Snake animation](https://raw.githubusercontent.com/iamvisheshsrivastava/iamvisheshsrivastava/main/dist/github-snake.svg)
+A selection of independent projects and research code. Prototype scope, evaluation results, and known limitations are documented in the individual repositories.
 
-<!-- 
-======================================================
-  ABOUT ME
-======================================================
--->
-## 🚀 About Me
+| Project | Focus | Explore |
+| --- | --- | --- |
+| **[Geospatial ML Platform](https://github.com/iamvisheshsrivastava/geospatial)** | Satellite-image classification, anomaly detection, and model-serving APIs with explainability. PyTorch, FastAPI, Docker. | [Code & results](https://github.com/iamvisheshsrivastava/geospatial#results) · [Demo](https://geospatial-ml-374ed002e5df.herokuapp.com/) |
+| **[Autoencoder Anomaly Detection](https://github.com/iamvisheshsrivastava/Autoencoder-Optimization-Anomaly-Detection)** | Research code comparing convolutional autoencoders with shallow anomaly-detection baselines. IEEE IJCNN 2024. | [Paper](https://doi.org/10.1109/IJCNN60899.2024.10650057) · [Demo](https://huggingface.co/spaces/VisheshSrivastava/autoencoder-anomaly-detection) |
+| **[AdvocateAI](https://github.com/iamvisheshsrivastava/AdvocateAI)** | A prototype for document analysis, retrieval-based Q&A, legal case workflows, and lawyer matching. FastAPI, Flutter. | [Architecture](https://github.com/iamvisheshsrivastava/AdvocateAI#architecture-overview) · [Demo](https://advocateai-1va.pages.dev/) |
+| **[AirKube](https://github.com/iamvisheshsrivastava/AirKube)** | Agent tools, knowledge-graph queries, inference APIs, and orchestrated data pipelines. LangGraph, Neo4j, FastAPI, Airflow. | [Architecture & limitations](https://github.com/iamvisheshsrivastava/AirKube#architecture) |
+| **[GraphRAG Lab](https://github.com/iamvisheshsrivastava/graphrag-lab)** | A research prototype for source-linked answers and traceability over automotive requirements. Neo4j, FastAPI, React. | [Code](https://github.com/iamvisheshsrivastava/graphrag-lab) · [Demo](https://graphrag-lab.vercel.app/) |
+| **[AB Lab](https://github.com/iamvisheshsrivastava/ab-lab)** | Experiment simulation, power analysis, frequentist and Bayesian inference, CUPED, and statistical guardrails. Python, Streamlit. | [Code](https://github.com/iamvisheshsrivastava/ab-lab) · [Demo](https://ab-lab.streamlit.app/) |
 
-- 🎓 **Applied ML Engineer | MSc Data Science (TU Dortmund)**
-- 💻 **Data Scientist** with prior experience in full-stack software development  
-- 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning**, and building impactful solutions  
-- 🌐 **Portfolio**: [visheshsrivastava.com](https://visheshsrivastava.com)
+**More work:** [spec2program](https://github.com/iamvisheshsrivastava/spec2program) — generating and validating engineering procedures · [Smart CSV Toolkit](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit) — data cleaning, merging, and visualization · [GenieBot](https://github.com/iamvisheshsrivastava/geniebot) — document Q&A and image captioning.
 
-<br />
+*Hosted demos may need time to wake up or have service limitations; the repository documentation provides setup instructions and current caveats.*
 
-## 📬 Subscribe to My Newsletter
-Get weekly insights on **Data Science, AI, and Machine Learning** straight to your inbox.  
+## Research & publications
 
-👉 [Join DSwithVishesh – AI & Data Weekly](https://aa7ed61b.sibforms.com/serve/MUIFADjxhPbC4HS2HxFYeJi6P_iNm0uT-h79INS4HkFpXmilHzXKN-GjuNcFqijb2b5MPuwhaAl3WmjtGPbgXZUcB-lR0_xBGKS0MJtcB1KkejYomVW71bRukY09SZpOLxAlnWyKDjKEr5kBy796tkfwAThBhIRBLzq9W68fFCXXuBd0sPEIdGrTrZAios4iX2384F7SjHoFp_4D) 🚀
+Second author of two peer-reviewed papers:
 
-<br />
+- **Autoencoder Optimization for Anomaly Detection: A Comparative Study with Shallow Algorithms**  
+  Vikas Kumar, **Vishesh Srivastava**, Sadia Mahjabin, Arindam Pal, Simon Klüttermann, Emmanuel Müller. IEEE IJCNN, 2024.  
+  [Paper / DOI](https://doi.org/10.1109/IJCNN60899.2024.10650057) · [Research code](https://github.com/iamvisheshsrivastava/Autoencoder-Optimization-Anomaly-Detection)
 
-<!-- 
-======================================================
-  FUN FACT (kept short)
-======================================================
--->
-### 🎉 Fun Fact
-I’m happiest when turning messy, real-world data into clean, decision-ready apps and dashboards.
+- **Void content classification for acceleration sensor embedded glass-fiber reinforced components made by resin transfer molding**  
+  M. Münch, **Vishesh Srivastava**, P. Middendorf. Journal of Composite Materials, 2025.  
+  [Paper / DOI](https://doi.org/10.1177/00219983251391884)
 
-<br />
+## Experience
 
----
+- **Master’s thesis research · Robert Bosch GmbH:** porosity prediction from sensor recordings and images; data preparation, feature extraction, model comparison, calibration, class imbalance, and limitations.
+- **AI engineering internship · AICU GmbH:** Python applications for cleaning, merging, and visualizing data; LLM API integration, validation, tests, and prototype deployment with Docker and Azure VM.
+- **Earlier software engineering · American EPAY, Contata, and choyze:** C#/.NET applications, REST APIs, SQL databases, testing, and troubleshooting.
 
-<!-- 
-======================================================
-  TECH STACK & SKILLS (condensed)
-======================================================
--->
-## 🛠 Tech Stack
+[Full professional background →](https://visheshsrivastava.com/about/)
 
-Python · SQL · PyTorch · TensorFlow · FastAPI · LangChain · Docker · AWS/Azure
+## Technical focus
 
-**Focus:** Generative AI · NLP · ML Systems · Data Engineering 
+| Area | Tools & methods |
+| --- | --- |
+| Machine learning & evaluation | Python, pandas, scikit-learn, PyTorch, TensorFlow; calibration, class imbalance, statistical evaluation |
+| LLM applications & agents | RAG, LangGraph, document analysis, source-linked answers, validation |
+| Services & deployment | FastAPI, Streamlit, Docker, GitHub Actions, Azure VM |
+| Data & software | SQL, SQLite, PostgreSQL, Git, C#/.NET, REST APIs |
 
-<br />
+## Education & certifications
 
----
+- **M.Sc. Data Science — TU Dortmund University**, completed November 2025. Master’s thesis at Bosch: **1.7**.
+- **B.Tech. Information Technology — Guru Ghasidas Vishwavidyalaya**.
+- **AWS Certified Cloud Practitioner** · **AWS Certified AI Practitioner**.
 
-<!-- 
-======================================================
-  ACHIEVEMENTS (tight & factual)
-======================================================
--->
-### 🏅 Achievements & Recognitions
-- **IEEE IJCNN 2024 Publication** — Autoencoder Optimization for Anomaly Detection: A Comparative Study with Shallow Algorithms.
-- **Journal of Composite Materials (2025)** — Void content classification for acceleration sensor embedded glass-fiber reinforced components made by resin transfer molding.
-- **Hessen Ideen Stipendium (2023)** — Six-month State of Hesse startup scholarship (projects.ai) for an AI-driven document-workflow automation prototype; completed workshops in mentoring, business model development, financing, marketing, and pitch training.
+## Current interests & contact
 
-<br />
+Practical AI applications, reliable ML evaluation, agent workflows, and how models behave on unfamiliar data. Open to AI/data roles and funded PhD opportunities.
 
----
+**Languages:** English — fluent · German — approximately A2.
 
-<!-- 
-======================================================
-  GITHUB TROPHIES (kept, centered)
-======================================================
--->
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamvisheshsrivastava&margin-w=10&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-<br />
-
----
-
-<!-- 
-======================================================
-  GITHUB STATS (compact, no clutter)
-======================================================
--->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamvisheshsrivastava&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvisheshsrivastava&theme=react&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvisheshsrivastava&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
-<br />
-
----
-
-<!-- 
-======================================================
-  OPEN SOURCE CONTRIBUTIONS (simple & honest)
-======================================================
--->
-### 🌱 Open Source Contributions
-I contribute across my own repos and community projects. PRs/issues visible in the **Contributions** tab.
-
-<br />
-
----
-
-<!-- 
-======================================================
-  LATEST BLOG POSTS (placeholder)
-======================================================
--->
-### 📝 Latest Blog Posts 
-Coming soon on **[visheshsrivastava.com](https://visheshsrivastava.com)** and Medium.
-
-<br />
-
----
-
-<!-- 
-======================================================
-  LET'S CONNECT (kept as badges)
-======================================================
--->
-## 🌐 Let's Connect!
-<p align="center">
-  <a href="https://visheshsrivastava.com">
-    <img src="https://img.shields.io/badge/Portfolio-visheshsrivastava.com-informational?style=flat-square&color=blue&logo=googlechrome" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/iamvisheshsrivastava">
-    <img src="https://img.shields.io/badge/LinkedIn-iamvisheshsrivastava-informational?style=flat-square&color=blue&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/iamvisheshsrivastava">
-    <img src="https://img.shields.io/badge/GitHub-iamvisheshsrivastava-informational?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:srivastava.vishesh9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srivastava.vishesh9@gmail.com-critical?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br />
-
----
-
-<!-- 
-======================================================
-  CLOSER
-======================================================
--->
-<p align="center">
-  ⭐ <strong>Thanks for dropping by!</strong> If something here sparks an idea, let’s build it. 🚀
-</p>
-
-<br />
-
----
-
-<!-- 
-======================================================
-  END OF README
-======================================================
--->
+[Portfolio](https://visheshsrivastava.com/) · [LinkedIn](https://www.linkedin.com/in/iamvisheshsrivastava/) · [Contact](https://visheshsrivastava.com/contact/)
